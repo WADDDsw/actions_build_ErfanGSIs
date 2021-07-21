@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/16s_Pro/9.21.4.29/cn_daily/20210429002119/889a2ad5/update.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://120-220-195-1.ksyungslb.com/bigota.d.miui.com/21.4.22/miui_VIOLET_21.4.22_904fe2ee16_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2F
+  ROM_NAME: miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
   TZ: Asia/Shanghai
 
 jobs:
