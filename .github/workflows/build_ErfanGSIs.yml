@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://120-220-195-1.ksyungslb.com/bigota.d.miui.com/21.4.22/miui_VIOLET_21.4.22_904fe2ee16_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2F
-  ROM_NAME: miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
+  ROM_URL: https://d.pcs.baidu.com/file/8a20d27a2g7cd41f1119d9b032734c07?fid=1102566010533-250528-233479167006462&rt=pr&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-MdW1UDAlounGf9FN5%2Fa8y8EFiYc%3D&expires=8h&chkbd=0&chkv=0&dp-logid=2706092678619836444&dp-callid=0&dstime=1627304266&r=501749243&origin_appid=&file_type=0
+  ROM_NAME: miui
   TZ: Asia/Shanghai
 
 jobs:
