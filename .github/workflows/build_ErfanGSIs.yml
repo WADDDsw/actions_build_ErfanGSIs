@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://112-6-83-33.ksyungslb.com:8043/bigota.d.miui.com/V12.5.1.0.QFHCNXM/miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2F
+  ROM_URL: https://bigota.d.miui.com/21.4.22/miui_VIOLET_21.4.22_904fe2ee16_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
@@ -59,7 +59,7 @@ jobs:
          run: |
               cd $GITHUB_WORKSPACE/ErfanGSIs/output
               curl -sL https://git.io/file-transfer | sh
-              ./transfer gof ./final/GSI.zip
+              ./transfer wet ./final/GSI.zip
 
          
             
