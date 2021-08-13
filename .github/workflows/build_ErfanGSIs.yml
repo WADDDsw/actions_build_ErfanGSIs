@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://d.pcs.baidu.com/file/8a20d27a2g7cd41f1119d9b032734c07?fid=1102566010533-250528-233479167006462&rt=pr&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-MdW1UDAlounGf9FN5%2Fa8y8EFiYc%3D&expires=8h&chkbd=0&chkv=0&dp-logid=2706092678619836444&dp-callid=0&dstime=1627304266&r=501749243&origin_appid=&file_type=0
-  ROM_NAME: miui
+  ROM_URL: https://112-6-83-33.ksyungslb.com:8043/bigota.d.miui.com/V12.5.1.0.QFHCNXM/miui_VIOLET_V12.5.1.0.QFHCNXM_0a511daa5e_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2F
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
